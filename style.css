@@ -1,0 +1,28 @@
+
+h1{
+   color:rgb(40, 114, 89);
+   font-size: 4rem;
+   font-weight: bold;
+   display:flex;
+   justify-content: center;
+   align-items: center;
+
+}
+
+.drums{
+    display: flex;
+    justify-content: space-evenly;
+    height: auto;
+    padding: 20px;
+    background-color: antiquewhite;
+    margin-top:7rem;
+    
+}
+
+.drum1{
+    height:150px;
+    width: 150px;
+    background-color: white;
+    
+
+}
